@@ -1,0 +1,8 @@
+{
+  "notebook_uploaded_filename": "AQI_Prediction_ML(1).ipynb",
+  "notebook_sha256": "494482c6cf6017bd46e2b51534a82f56baf16b9e37d1d06ed3932dca800074c2",
+  "dataset_uploaded_filename": "air+quality.zip",
+  "dataset_zip_sha256": "d4a64013fb385288a8a48d9d193ca7079b2e1bbddf6f8d458feb8c08ab2b8a2a",
+  "notebook_dataset_dependency": "data/city_day.csv",
+  "attached_dataset_archive": "data/user_provided_AirQualityUCI/air+quality.zip"
+}

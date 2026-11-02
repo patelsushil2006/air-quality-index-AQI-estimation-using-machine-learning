@@ -1,0 +1,16 @@
+
+AQI PREDICTION USING MACHINE LEARNING
+====================================
+
+Cleaned dataset records: 24850
+Training records: 16018
+Testing records: 8832
+Processed features: 33
+
+Best model by lowest test RMSE: Gradient Boosting
+MAE: 18.4283
+RMSE: 31.4081
+R2 Score: 0.9087
+
+Task: AQI estimation from pollutant measurements.
+These results do not establish future AQI forecasting.

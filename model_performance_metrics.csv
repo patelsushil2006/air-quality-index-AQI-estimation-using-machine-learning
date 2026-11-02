@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2 Score
+Gradient Boosting,18.4283,31.4081,0.9087
+Random Forest,17.7693,32.3495,0.9032
+XGBoost,17.7473,35.077,0.8862
+Linear Regression,24.9152,37.3474,0.8709
